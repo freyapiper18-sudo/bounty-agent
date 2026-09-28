@@ -2,7 +2,7 @@ name: Bounty agent
 
 on:
   schedule:
-    - cron: "0 6,18 * * *"   # twice a day, UTC
+    - cron: "0 0,6,12,18 * * *"   # every 6 hours, UTC
   workflow_dispatch:
     inputs:
       dry_run:
