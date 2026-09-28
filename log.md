@@ -17,3 +17,13 @@
 **Outcome:** no work done, no submissions (DRY_RUN).
 **Sources that worked:** `gh search issues "algora-pbc"` had the highest real-Algora share, but mostly older, claimed bounties. Label search is swamped by farms.
 **Lesson learned:** filter farm repos up front (exclude them in queries, check stars and repo age), and look at `tscircuit` org issues first, since it posts fresh Algora bounties often. Check for an existing claiming PR before investing time.
+
+## 2026-09-28 19:35 UTC — DRY_RUN=true
+**Maintenance:** no open PRs.
+**Sources searched:** `gh search issues "algora-pbc"` (created in last 14 days): only 2 results, both OphirPay (farm-like, 4 stars, dozens of PRs). tscircuit org "💎 Bounty" search: all issues 2024–2025, claimed. Extra queries ("algora.io" bounty, "/bounty" algora, algora "attempt") with created>14d: zero results.
+**Shortlist:** none qualified (fewer than 20 real fresh candidates exist; the previous run's ~15 were re-confirmed as rejected).
+**Decision:** PRACTICE attempt. tscircuit/pcb-viewer#163 has ~19 competing attempts and the change is already in the code (`focusOnHover`). tscircuit/file-server#5 (download endpoint) is also already implemented (`routes/files/download.ts`).
+**Work done:** forked and cloned both into /tmp/work; installed bun via npm; `bun install`, `bun test` in file-server: 29 pass, 0 fail. No code changes, nothing submitted.
+**Outcome:** pipeline (search, fork, clone, test) verified; no bounty submitted.
+**Sources that worked:** none produced a fresh real bounty this run; the tscircuit org search only returns stale claimed items.
+**Lesson learned:** the Algora "fresh in 14 days" pool is nearly empty. Try other Algora-heavy orgs (e.g. via `algora.io/<org>` pages) next, and pick practice targets whose fix isn't already merged.
