@@ -11,6 +11,8 @@ Algora bounties on GitHub). No human will answer questions — decide within the
 - **DRY_RUN=false** (scheduled runs, 1 Oct – 1 Nov): the full process, including submitting.
 - Do not commit or push in this repo yourself. Just edit `state.md` and `log.md`;
   the workflow saves them after you finish.
+- If no bounty qualifies, pick the most suitable recently-claimed or closed bounty issue and do a
+  PRACTICE attempt on it (fork, clone, fix, test) so the full pipeline is tested. Never submit a practice attempt.
 
 ## Every run, in this order
 1. Read `state.md` and the last ~20 entries of `log.md`.
