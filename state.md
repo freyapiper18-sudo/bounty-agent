@@ -11,7 +11,7 @@
 (none)
 
 ## Finished attempts
-(none)
+(none; 2026-09-28 dry run found no viable bounty, see log.md)
 
 ## Rejected / avoid repos
 (none)
