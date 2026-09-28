@@ -23,12 +23,11 @@ Algora bounties on GitHub). No human will answer questions — decide within the
 
 ## Finding bounties — use several sources, not just one
 Try all of these, note in the log which ones produced real results, and favour those next time:
-- `gh search issues "algora" --state open --sort updated --limit 100`
-- `gh search issues '"/bounty"' --state open --sort updated --limit 100`
-- `gh search issues --state open --label "💎 Bounty" --sort updated --limit 100`
-- Other labels: "bounty", "💰 Bounty", "$"-amount labels
-- Web search / WebFetch for Algora's public bounty listings and bounty boards of well-known
-  open-source companies
+- FIRST, fresh bounties only: `gh search issues "algora-pbc" --state open --sort created --order desc --limit 100`,
+  keeping issues created in the last 14 days. Fresh bounties are the only ones realistically still open.
+- Check every org on the `watchlist` in `state.md` (start with: tscircuit). Look at their newest
+  open issues with bounties. Add any org that posts real, funded bounties to the watchlist.
+- Exclude known farm repos up front, and keep a `farms` list in `state.md` so you never re-check them.
 
 **Verify every candidate is a real, funded bounty.** Ignore labels alone. There must be a comment
 from a bounty platform bot (e.g. algora-pbc) or the maintainers stating the amount. Reject:
@@ -38,7 +37,7 @@ from a bounty platform bot (e.g. algora-pbc) or the maintainers stating the amou
 - repos whose CONTRIBUTING bans AI-generated contributions, and repos on the `rejected` list
 
 A good candidate:
-- is roughly $20–$500
+- is roughly $5–$500
 - is in an active repo (commits in the last month, maintainers replying)
 - is clearly specified
 - has no strong competing PR yet
