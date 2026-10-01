@@ -15,6 +15,7 @@
 
 ## Watchlist
 - tscircuit (only old/claimed bounties as of 2026-09-28)
+- To check next run: calcom, golemcloud, triggerdotdev, zio (unverified, from memory)
 
 ## Farms (never re-check)
 UnsafeLabs/Bounty-Hunters, SecureBananaLabs/bug-bounty, ClankerNation/OpenAgents, Nexussyn, SCIBASE-AI, sorosave, EdgeChains, dozer, OphirPay/OphirPay
