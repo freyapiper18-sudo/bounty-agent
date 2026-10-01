@@ -36,3 +36,12 @@
 **Outcome:** no PRs, no changes.
 **Sources that worked:** none this run.
 **Lesson learned:** the fresh-Algora pool is empty on the first day; GitHub search can't surface it. Next run, try other Algora-heavy orgs from memory (e.g. calcom, zio, golemcloud, triggerdotdev) via `gh issue list --label "💎 Bounty"` per repo.
+
+## 2026-10-01 12:14 UTC — DRY_RUN=false
+**Maintenance:** no open PRs.
+**Sources searched:** `gh search issues "algora-pbc"` (open, newest first, last 14 days): zero. "bounty algora" newest: only farm/noise (bounty-plaza, ClawFreelance, PD-Hunter). Per-repo bounty search in calcom/cal.com, golemcloud/golem, triggerdotdev/trigger.dev, zio/zio: no Algora bounties (no label, no bot comments).
+**Shortlist:** none; far below 20 real candidates.
+**Decision:** no bounty taken, nothing submitted, no practice repeat (pipeline already verified).
+**Outcome:** no changes.
+**Sources that worked:** none.
+**Lesson learned:** guessing orgs from memory does not work; the 4 guesses had no live Algora bounties. Next try WebFetch of algora.io org/bounty pages or other search phrasing.

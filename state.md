@@ -15,10 +15,11 @@
 
 ## Watchlist
 - tscircuit (only old/claimed bounties as of 2026-09-28)
-- To check next run: calcom, golemcloud, triggerdotdev, zio (unverified, from memory)
+- Checked 2026-10-01, no Algora bounties: calcom, golemcloud, triggerdotdev, zio
+- To try next: algora.io org pages via WebFetch, projectdiscovery, appsmith, filecoin, ghostty-style OSS orgs
 
 ## Farms (never re-check)
-UnsafeLabs/Bounty-Hunters, SecureBananaLabs/bug-bounty, ClankerNation/OpenAgents, Nexussyn, SCIBASE-AI, sorosave, EdgeChains, dozer, OphirPay/OphirPay
+UnsafeLabs/Bounty-Hunters, zhangjiayang6835-cyber/bounty-plaza, SecureBananaLabs/bug-bounty, ClankerNation/OpenAgents, Nexussyn, SCIBASE-AI, sorosave, EdgeChains, dozer, OphirPay/OphirPay
 
 ## Rejected / avoid repos
 (none)
