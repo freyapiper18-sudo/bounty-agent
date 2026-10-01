@@ -16,10 +16,11 @@
 ## Watchlist
 - tscircuit (only old/claimed bounties as of 2026-09-28)
 - Checked 2026-10-01, no Algora bounties: calcom, golemcloud, triggerdotdev, zio
+- 2026-10-01 22:13: algora.io/bounties 404; console.algora.io tRPC bounty.list returns empty
 - To try next: algora.io org pages via WebFetch, projectdiscovery, appsmith, filecoin, ghostty-style OSS orgs
 
 ## Farms (never re-check)
-UnsafeLabs/Bounty-Hunters, zhangjiayang6835-cyber/bounty-plaza, SecureBananaLabs/bug-bounty, ClankerNation/OpenAgents, Nexussyn, SCIBASE-AI, sorosave, EdgeChains, dozer, OphirPay/OphirPay
+BountyScout (all forks), blackmore-technology-group/ENTITY, ariahendrawan-sudo/project-a, Uuriko/project-room, Ikalus1988/MisakaNet, Daisuke134/life-manager, jain-Igtm/CashGPT, UnsafeLabs/Bounty-Hunters, zhangjiayang6835-cyber/bounty-plaza, SecureBananaLabs/bug-bounty, ClankerNation/OpenAgents, Nexussyn, SCIBASE-AI, sorosave, EdgeChains, dozer, OphirPay/OphirPay
 
 ## Rejected / avoid repos
 (none)

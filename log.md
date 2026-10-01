@@ -45,3 +45,12 @@
 **Outcome:** no changes.
 **Sources that worked:** none.
 **Lesson learned:** guessing orgs from memory does not work; the 4 guesses had no live Algora bounties. Next try WebFetch of algora.io org/bounty pages or other search phrasing.
+
+## 2026-10-01 22:13 UTC — DRY_RUN=false
+**Maintenance:** no open PRs.
+**Sources searched:** `gh search issues "algora-pbc"` (newest first): newest real-looking result is 2026-08-30, all farm/noise. "bounty algora" created since 2026-09-17: only BountyScout/ENTITY/project-a spam. WebFetch algora.io/bounties: 404. Algora console tRPC `bounty.list` (WebFetch and curl): empty items.
+**Shortlist:** none; no fresh real funded bounty found.
+**Decision:** no bounty taken, nothing submitted.
+**Outcome:** no changes.
+**Sources that worked:** none.
+**Lesson learned:** Algora's public API query returned empty (may be wrong parameters or auth); the fresh pool still looks empty. Check again later in the month as new bounties appear.
