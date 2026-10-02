@@ -18,6 +18,7 @@
 - Checked 2026-10-01, no Algora bounties: calcom, golemcloud, triggerdotdev, zio
 - 2026-10-01 22:13: algora.io/bounties 404; console.algora.io tRPC bounty.list returns empty
 - 2026-10-02 03:36: gh search again empty (only known farms)
+- 2026-10-02 11:43: gh search empty again; projectdiscovery/nuclei, appsmith, filecoin/lotus have no 💎 Bounty issues; tscircuit/tscircuit#4764 is an archived-repo (autorouting#92) spam thread
 - To try next: algora.io org pages via WebFetch, projectdiscovery, appsmith, filecoin, ghostty-style OSS orgs
 
 ## Farms (never re-check)
