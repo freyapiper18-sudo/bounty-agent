@@ -62,6 +62,7 @@
 - 2026-10-14 16:20: gh search unchanged (newest 2026-08-30, farms only)
 - 2026-10-14 21:11: gh search unchanged (newest 2026-08-30, farms only)
 - 2026-10-15 02:46: gh search unchanged (newest 2026-08-30, farms only)
+- 2026-10-15 10:42: gh search unchanged (newest 2026-08-30, farms only); newest tscircuit issues have no bounty labels/comments
 - To try next: algora.io org pages via WebFetch, projectdiscovery, appsmith, filecoin, ghostty-style OSS orgs
 
 ## Farms (never re-check)
