@@ -66,10 +66,11 @@
 - 2026-10-15 16:07: gh search unchanged (newest 2026-08-30, farms only)
 - 2026-10-15 20:50: gh search unchanged (newest 2026-08-30, farms only); Go-Hybrid has another new issue (already in farms)
 - 2026-10-16 02:43: gh search unchanged (newest 2026-08-30, farms only)
+- 2026-10-16 10:29: gh search unchanged; oll4com/spaceapp (10 stars, <3 months, 6 bulk issues) added to farms
 - To try next: algora.io org pages via WebFetch, projectdiscovery, appsmith, filecoin, ghostty-style OSS orgs
 
 ## Farms (never re-check)
-BountyScout (all forks), blackmore-technology-group/ENTITY, ariahendrawan-sudo/project-a, Uuriko/project-room, Ikalus1988/MisakaNet, Daisuke134/life-manager, jain-Igtm/CashGPT, UnsafeLabs/Bounty-Hunters, zhangjiayang6835-cyber/bounty-plaza, SecureBananaLabs/bug-bounty, ClankerNation/OpenAgents, Nexussyn, SCIBASE-AI, sorosave, EdgeChains, dozer, OphirPay/OphirPay, limitlessprojects/Go-Hybrid
+BountyScout (all forks), blackmore-technology-group/ENTITY, ariahendrawan-sudo/project-a, Uuriko/project-room, Ikalus1988/MisakaNet, Daisuke134/life-manager, jain-Igtm/CashGPT, UnsafeLabs/Bounty-Hunters, zhangjiayang6835-cyber/bounty-plaza, SecureBananaLabs/bug-bounty, ClankerNation/OpenAgents, Nexussyn, SCIBASE-AI, sorosave, EdgeChains, dozer, OphirPay/OphirPay, limitlessprojects/Go-Hybrid, oll4com/spaceapp
 
 ## Rejected / avoid repos
 (none)

@@ -495,3 +495,12 @@
 **Outcome:** no changes.
 **Sources that worked:** none.
 **Lesson learned:** pool unchanged; no fresh Algora bounties on GitHub search.
+
+## 2026-10-16 10:29 UTC — DRY_RUN=false
+**Maintenance:** no open PRs.
+**Sources searched:** `gh search issues "algora-pbc"` (newest 2026-08-30, farms/forks); "💎 Bounty" label (new: oll4com/spaceapp, Go-Hybrid).
+**Shortlist:** spaceapp rejected (10 stars, repo <3 months old, 6 issues bulk-created in 6 seconds).
+**Decision:** no bounty taken, nothing submitted.
+**Outcome:** spaceapp added to farms.
+**Sources that worked:** none.
+**Lesson learned:** the "💎 Bounty" label search keeps surfacing new farm repos; check stars/age first.
