@@ -67,6 +67,7 @@
 - 2026-10-15 20:50: gh search unchanged (newest 2026-08-30, farms only); Go-Hybrid has another new issue (already in farms)
 - 2026-10-16 02:43: gh search unchanged (newest 2026-08-30, farms only)
 - 2026-10-16 10:29: gh search unchanged; oll4com/spaceapp (10 stars, <3 months, 6 bulk issues) added to farms
+- 2026-10-16 15:55: gh search unchanged (newest 2026-08-30, farms only); 💎 label only spaceapp/Go-Hybrid (farms); newest tscircuit issues unlabeled
 - To try next: algora.io org pages via WebFetch, projectdiscovery, appsmith, filecoin, ghostty-style OSS orgs
 
 ## Farms (never re-check)
